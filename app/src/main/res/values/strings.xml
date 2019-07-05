@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KBC</string>
+    <string name="false_button">False</string>
+    <string name="true_button">True</string>
+    <string name="next_button">Next</string>
+    <string name="false_message">oops!Its wrong</string>
+    <string name="true_message">The answer is correct</string>
+    <string name="question1">Amartya Sen was awarded the Nobel prize for his contribution to Welfare Economics.</string>
+    <string name="question2">The Headquarters of the Southern Naval Command of the India Navy is located at Thiruvananthapuram.</string>
+    <string name="question3">William Hewlett and David Packard set up a small company called apple.</string>
+    <string name="question4">Earth Rotation is also called annual motion of the earth?</string>
+    <string name="question5">Sachin Tendulkar has not played a single International T20 match for India.</string>
+    <string name="question6">There are 4 sessions of the Parliament each year: Spring, Summer, Autumn and Winter.</string>
+    <string name="question7">The Captain Roop Singh stadium is named after a former Indian cricketer.</string>
+    <string name="question8">The Mahabharata is a part of The Bhagavad Gita.</string>
+
+</resources>
